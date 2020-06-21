@@ -27,8 +27,8 @@ This repository contains the Python (v3.7) code for the [Talk Python Podcast Tel
 
 ---
 
-<p align="center"><img src="https://github.com/Bots-Telegram/talk-python-bot/blob/master/images/bot1.jpg" alt="Bot1"></p>
+<p align="center"><img src="https://github.com/AbhishekPednekar84/talk-python-bot/tree/master/images/bot1.jpg" alt="Bot1"></p>
 
 ---
 
-<p align="center"><img src="https://github.com/Bots-Telegram/talk-python-bot/blob/master/images/bot2.jpg" alt="Bot2"></p>
+<p align="center"><img src="https://github.com/AbhishekPednekar84/talk-python-bot/tree/master/images/bot2.jpg" alt="Bot2"></p>
