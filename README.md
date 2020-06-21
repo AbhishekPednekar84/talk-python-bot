@@ -1,5 +1,7 @@
 # Talk Python Podcast - Telegram Bot
 
+[![Build Status](https://travis-ci.org/AbhishekPednekar84/talk-python-bot.svg?branch=master)](https://travis-ci.org/AbhishekPednekar84/talk-python-bot)
+
 This repository contains the Python (v3.7) code for the [Talk Python Podcast Telegram bot](https://t.me/@TalkPythonBot).
 
 ## Using the bot
