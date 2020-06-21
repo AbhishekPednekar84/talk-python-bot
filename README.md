@@ -17,7 +17,7 @@ This repository contains the Python (v3.7) code for the [Talk Python Podcast Tel
 
 ## Creating a local setup
 
-1. Clone the current repository - `git clone https://github.com/Bots-Telegram/talk-python-bot`
+1. Clone the current repository - `git clone https://github.com/AbhishekPednekar84/talk-python-bot`
 2. Create a virtual environment - `python -m venv venv`
 3. Activate the virtual environment - `venv\Sctipts\activate.bar` (Windows), `source venv/bin/activate` (OSx / Linux)
 4. Install the project dependencies - `pip install -r requirements.txt`
