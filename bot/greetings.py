@@ -1,0 +1,18 @@
+greetings = [
+    "Hi",
+    "Hello",
+    "Hey",
+    "Namaste",
+    "Hola",
+    "Bonjour",
+    "Ciao",
+    "Guten Tag",
+    "Hej",
+    "Shalom",
+    "Yasou",
+    "Avuxeni",
+    "Shwmae",
+    "Sawubona",
+    "Olá",
+    "Grüß Gott",
+]
